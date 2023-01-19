@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D3 - Data Driven Documents</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <svg width="500px" height="500px">
+        <g>
+            <circle cy="50" cx="50" r="30"></circle>
+            <circle cy="150" cx="150" r="30"></circle>
+            <circle cy="250" cx="250" r="30"></circle>
+            <!-- <circle cy="350" cx="350" r="30"></circle> -->
+            <rect x="200" y="50" width="100" height="100" style="fill:chocolate; stroke: black; stroke-width: 30px;"></rect>
+            <rect x="300" y="50" width="100" height="100" style="fill:chocolate; stroke: black;"></rect>
+            <path d="M 100,300 100,350 200,300 200,350" style="fill:blank"></path>
+            <path d="M 300,300 300,350 350,350 350,300" style="fill:blank"></path>
+        </g>
+        <text x="400" y="400"> hello world</text>
+    </svg>
+    <div class="canvas"></div>
+    <script src="./index.js"></script>
+</body>
+</html>
+ 

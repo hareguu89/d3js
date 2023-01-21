@@ -1,7 +1,7 @@
 # D3.js (data driven documents)
 D3.js는 데이터 기반으로 문서수정을 하기 위한 Javascript 라이브러리다. D3.js는 HTML, SVG, CSS를 사용해서 데이터에 활기를 부어준다. 웹 표준상에서 D3의 주안점은 개발자가 강력한 비주얼라이제이션 컴포넌트들을 결합한 자체 프로임워크로 작업하지 않아도 최신 브라우저의 호환성을 보장하는 것이다. 그리고 DOM 수정에 대해서 데이터 관점에서 접근한다.
 
-<a href="https://d3js.org/" >d3.js link</a>
+<a href="https://d3js.org/" >d3.js.org</a>
 - 데이터를 시각화 하려는 목적
 - SVG를 통해 다양한 해상도에서 깨짐없는 시각화 가능.
 

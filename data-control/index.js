@@ -10,3 +10,5 @@ console.log(f2('c'))
 
 const f3 = d3.scalePoint().range([0, 100]).domain(['a','b','c','d']).padding(0.3)
 console.log(f3('a'))
+
+// login

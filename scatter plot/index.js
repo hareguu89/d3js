@@ -1,3 +1,5 @@
+// https://observablehq.com/@d3/d3-scalelinear
+
 const sampleData = [
     [5, 20, 30, '#ff0000'],
     [5, 320, 90, '#ff0000'],
